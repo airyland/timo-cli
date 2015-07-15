@@ -1,0 +1,9 @@
+{
+  "name": "timo-cli",
+  "bin": {
+    "timo": "bin/timo"
+  },
+  "dependencies": {
+    "commander": "^2.8.1"
+  }
+}
